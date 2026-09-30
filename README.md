@@ -1,1 +1,0 @@
-# HD-trade-product-vercel
